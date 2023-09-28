@@ -160,7 +160,7 @@ No High frequent customer is not giving more revenue
 
 
 
-# Calculate Average Revenue per Customer (ARPC)
+Calculate Average Revenue per Customer (ARPC)
 
 
 
