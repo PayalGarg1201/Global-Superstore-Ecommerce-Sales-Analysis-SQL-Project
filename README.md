@@ -58,7 +58,17 @@ SQL-Project
 
 
 
+ Do the high frequent customers are contributing more revenue ? 
 
+
+
+
+
+
+
+
+
+ 
 
 <img width="448" alt="image" src="https://github.com/PayalGarg1201/Global-Superstore-Ecommerce-Sales-Analysis-SQL-Project/assets/133757186/5222c1db-3bd9-49b6-96f1-7a1312040ad0">
 
