@@ -130,3 +130,28 @@ No High frequent customer is not giving more revenue
 
 
 
+
+
+
+
+
+
+# Calculate Average Revenue per Customer (ARPC)
+
+
+
+
+
+
+
+
+
+
+<img width="592" alt="image" src="https://github.com/PayalGarg1201/Global-Superstore-Ecommerce-Sales-Analysis-SQL-Project/assets/133757186/65970a89-f202-487a-8bbf-f6d86049dd8a">
+
+
+
+
+
+
+
